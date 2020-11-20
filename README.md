@@ -48,3 +48,4 @@ Our first group project with the goal to create a community journaling website.
 - Add the ability to also react to comments
 - Allow users to post giffs as replies
 - Allow users to post images or photos
+-
